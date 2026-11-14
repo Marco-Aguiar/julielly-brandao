@@ -7,8 +7,7 @@ window.SITE_CONFIG = {
   telefoneExibido: "(35) 99919-1397",
 
   // Redes sociais
-  instagram: "https://www.instagram.com/julielly.almeida/",
-
+instagram: "https://www.instagram.com/julielly.almeida/",
   // Adicione o LinkedIn quando houver um endereço confirmado
-  linkedin: ""
+  linkedin: "https://br.linkedin.com/in/julielly-almeida-23b0bb408"
 };

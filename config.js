@@ -1,12 +1,14 @@
-/* =========================================================
-   Dados editáveis do site (só mexa aqui para trocar contatos)
-   ========================================================= */
+
 window.SITE_CONFIG = {
-  // WhatsApp: código do país + DDD + número, somente dígitos
+  // WhatsApp com código do Brasil (55) + DDD + número
   whatsapp: "5535999191397",
+
+  // Telefone exibido no site
   telefoneExibido: "(35) 99919-1397",
 
-  // Deixe vazio ("") para esconder o ícone
-  instagram: "",   // ex.: "https://instagram.com/usuario"
-  linkedin: "",    // ex.: "https://linkedin.com/in/usuario"
+  // Redes sociais
+  instagram: "https://www.instagram.com/julielly.almeida/",
+
+  // Adicione o LinkedIn quando houver um endereço confirmado
+  linkedin: ""
 };
